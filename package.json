@@ -1,12 +1,12 @@
 {
-  "name": "web3-plugin-template",
+  "name": "web3-plugin-metamask",
   "version": "1.0.0",
-  "description": "Template plugin to extend web3.js with additional methods",
+  "description": "This is a web3.js plugin for the metamask custom rpc methods.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
-  "homepage": "https://github.com/web3/web3.js-plugin-template#readme",
+  "homepage": "https://github.com/ChainSafe/web3-plugin-metamask",
   "bugs": {
-    "url": "https://github.com/web3/web3.js-plugin-template/issues"
+    "url": "https://github.com/ChainSafe/web3-plugin-metamask/issues"
   },
   "scripts": {
     "lint": "eslint '{src,test}/**/*.ts'",
@@ -19,7 +19,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:web3/web3.js-plugin-template.git"
+    "url": "https://github.com/ChainSafe/web3-plugin-metamask.git"
   },
   "dependencies": {
   },
